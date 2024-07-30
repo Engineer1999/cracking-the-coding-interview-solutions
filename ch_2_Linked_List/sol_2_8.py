@@ -1,4 +1,4 @@
-from LList import LinkedList, Node, display
+from LList import LinkedList
 
 def find_loop(head):
     slow_runner = head
